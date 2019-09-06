@@ -1,4 +1,4 @@
-## Question 1
+## Question 1a
 ### Life A
 as.Date("1992-06-20")-as.Date("1992-03-17")
 as.Date("1993-03-17")-as.Date("1992-06-20")
